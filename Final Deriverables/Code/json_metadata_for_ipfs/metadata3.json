@@ -1,0 +1,38 @@
+{
+    "name": "keroo",
+    "description": "My first nft's character.",
+    "image": "ipfs://bafkreie5zmronem2wjwr3vzvmludaeuba7roccaok3gw6oite4hgbn6ho4",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "smile"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "middle"
+        },
+        {
+            "trait_type": "Jump",
+            "value": 803
+        },
+        {
+            "trait_type": "Speed",
+            "value": 123
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Power",
+            "value": 43
+        },
+        {
+            "display_type": "boost_percentage",
+            "trait_type": "Stamina",
+            "value": 13
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Generation",
+            "value": 2
+        }
+    ]
+}

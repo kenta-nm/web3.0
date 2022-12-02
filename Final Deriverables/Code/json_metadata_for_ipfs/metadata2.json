@@ -1,0 +1,38 @@
+{
+    "name": "kerokichi",
+    "description": "My first nft's characters.",
+    "image": "ipfs://bafkreidj4avdhxdtoidpcnt4lpso2uooiy7wws3rvvcupvj7rjueqwm6ey",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "grin"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "big"
+        },
+        {
+            "trait_type": "Jump",
+            "value": 802
+        },
+        {
+            "trait_type": "Speed",
+            "value": 122
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Power",
+            "value": 42
+        },
+        {
+            "display_type": "boost_percentage",
+            "trait_type": "Stamina",
+            "value": 12
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Generation",
+            "value": 2
+        }
+    ]
+}

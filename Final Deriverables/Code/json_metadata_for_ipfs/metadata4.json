@@ -1,0 +1,38 @@
+{
+    "name": "keroyo",
+    "description": "My first nft's character.",
+    "image": "ipfs://bafkreifoqi46x5kdvfp23uug5jf2qoxkdgu2lpzxqe6qiqujc5c7grgfn4",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "chuckle"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "middle"
+        },
+        {
+            "trait_type": "Jump",
+            "value": 804
+        },
+        {
+            "trait_type": "Speed",
+            "value": 124
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Power",
+            "value": 44
+        },
+        {
+            "display_type": "boost_percentage",
+            "trait_type": "Stamina",
+            "value": 14
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Generation",
+            "value": 2
+        }
+    ]
+}
